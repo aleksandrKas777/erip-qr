@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/erip-qr/static/css/main.4e740495.css",
+    "main.js": "/erip-qr/static/js/main.68312678.js",
+    "static/js/787.f5a0924c.chunk.js": "/erip-qr/static/js/787.f5a0924c.chunk.js",
+    "index.html": "/erip-qr/index.html",
+    "main.4e740495.css.map": "/erip-qr/static/css/main.4e740495.css.map",
+    "main.68312678.js.map": "/erip-qr/static/js/main.68312678.js.map",
+    "787.f5a0924c.chunk.js.map": "/erip-qr/static/js/787.f5a0924c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e740495.css",
+    "static/js/main.68312678.js"
+  ]
+}
